@@ -1,0 +1,15 @@
+﻿  main_WaveEquation_CL.cpp
+C:\Users\Insung Ihm\Desktop\Work\Teaching\CSEG437_5437\Codes\OpenCL_Sample_Codes_2020\WaveEquation_CL\WaveEquation_CL\main_WaveEquation_CL.cpp(144,12): warning C4101: 'strings' :참조되지 않은 지역 변수입니다.
+C:\Users\Insung Ihm\Desktop\Work\Teaching\CSEG437_5437\Codes\OpenCL_Sample_Codes_2020\WaveEquation_CL\WaveEquation_CL\main_WaveEquation_CL.cpp(256,30): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  OpenGL_WE.cpp
+C:\Users\Insung Ihm\Desktop\Work\Teaching\CSEG437_5437\Codes\OpenCL_Sample_Codes_2020\WaveEquation_CL\WaveEquation_CL\OpenGL_WE.cpp(156,90): warning C4244: '=': 'double'에서 'cl_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Insung Ihm\Desktop\Work\Teaching\CSEG437_5437\Codes\OpenCL_Sample_Codes_2020\WaveEquation_CL\WaveEquation_CL\OpenGL_WE.cpp(165,90): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Insung Ihm\Desktop\Work\Teaching\CSEG437_5437\Codes\OpenCL_Sample_Codes_2020\WaveEquation_CL\WaveEquation_CL\OpenGL_WE.cpp(309,16): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Insung Ihm\Desktop\Work\Teaching\CSEG437_5437\Codes\OpenCL_Sample_Codes_2020\WaveEquation_CL\WaveEquation_CL\OpenGL_WE.cpp(314,12): warning C4244: '인수': 'LONGLONG'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Insung Ihm\Desktop\Work\Teaching\CSEG437_5437\Codes\OpenCL_Sample_Codes_2020\WaveEquation_CL\WaveEquation_CL\OpenGL_WE.cpp(315,23): warning C4101: 'end' :참조되지 않은 지역 변수입니다.
+C:\Users\Insung Ihm\Desktop\Work\Teaching\CSEG437_5437\Codes\OpenCL_Sample_Codes_2020\WaveEquation_CL\WaveEquation_CL\OpenGL_WE.cpp(315,16): warning C4101: 'start' :참조되지 않은 지역 변수입니다.
+  LoadShaders.cpp
+  my_OpenCL_util_2.cpp
+  코드를 생성하고 있습니다...
+C:\Users\Insung Ihm\Desktop\Work\Teaching\CSEG437_5437\Codes\OpenCL_Sample_Codes_2020\WaveEquation_CL\WaveEquation_CL\main_WaveEquation_CL.cpp(126): warning C4715: 'run_CL_kernel_WE': 모든 제어 경로에서 값을 반환하지는 않습니다.
+LINK : fatal error LNK1104: 'freeglut.lib' 파일을 열 수 없습니다.
